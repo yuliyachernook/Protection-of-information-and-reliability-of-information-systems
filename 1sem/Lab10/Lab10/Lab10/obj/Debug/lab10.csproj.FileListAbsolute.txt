@@ -1,0 +1,7 @@
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab10\10\bin\Debug\lab10.exe.config
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab10\10\bin\Debug\lab10.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab10\10\bin\Debug\lab10.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab10\10\obj\Debug\lab10.csprojAssemblyReference.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab10\10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab10\10\obj\Debug\lab10.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab10\10\obj\Debug\lab10.pdb

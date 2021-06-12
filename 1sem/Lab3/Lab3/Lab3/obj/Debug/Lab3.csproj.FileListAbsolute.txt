@@ -1,0 +1,7 @@
+D:\ZI\1sem\Lab3\Lab3\Lab3\bin\Debug\3Lab.exe.config
+D:\ZI\1sem\Lab3\Lab3\Lab3\bin\Debug\3Lab.exe
+D:\ZI\1sem\Lab3\Lab3\Lab3\bin\Debug\3Lab.pdb
+D:\ZI\1sem\Lab3\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\ZI\1sem\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\ZI\1sem\Lab3\Lab3\Lab3\obj\Debug\3Lab.exe
+D:\ZI\1sem\Lab3\Lab3\Lab3\obj\Debug\3Lab.pdb

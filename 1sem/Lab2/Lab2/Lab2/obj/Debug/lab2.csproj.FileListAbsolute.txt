@@ -1,0 +1,6 @@
+D:\ZI\1sem\lab2\crypto1\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\ZI\1sem\lab2\crypto1\bin\Debug\lab2.exe.config
+D:\ZI\1sem\lab2\crypto1\bin\Debug\lab2.exe
+D:\ZI\1sem\lab2\crypto1\bin\Debug\lab2.pdb
+D:\ZI\1sem\lab2\crypto1\obj\Debug\lab2.exe
+D:\ZI\1sem\lab2\crypto1\obj\Debug\lab2.pdb

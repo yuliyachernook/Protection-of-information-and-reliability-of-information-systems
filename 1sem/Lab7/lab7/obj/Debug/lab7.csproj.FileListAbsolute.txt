@@ -1,0 +1,7 @@
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab7\L6.3 Итеративный код\bin\Debug\lab7.exe.config
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab7\L6.3 Итеративный код\bin\Debug\lab7.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab7\L6.3 Итеративный код\bin\Debug\lab7.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab7\L6.3 Итеративный код\obj\Debug\lab7.csprojAssemblyReference.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab7\L6.3 Итеративный код\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab7\L6.3 Итеративный код\obj\Debug\lab7.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab7\L6.3 Итеративный код\obj\Debug\lab7.pdb

@@ -1,0 +1,7 @@
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\5\5\bin\Debug\lab5.exe.config
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\5\5\bin\Debug\lab5.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\5\5\bin\Debug\lab5.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\5\5\obj\Debug\lab5.csprojAssemblyReference.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\5\5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\5\5\obj\Debug\lab5.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\5\5\obj\Debug\lab5.pdb

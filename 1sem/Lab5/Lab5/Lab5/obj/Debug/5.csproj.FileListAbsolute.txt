@@ -1,0 +1,25 @@
+C:\Non_system_files\Универ\Защита информации и надежность информационных систем\Лабы\5\5\bin\Debug\5.exe.config
+C:\Non_system_files\Универ\Защита информации и надежность информационных систем\Лабы\5\5\bin\Debug\5.exe
+C:\Non_system_files\Универ\Защита информации и надежность информационных систем\Лабы\5\5\bin\Debug\5.pdb
+C:\Non_system_files\Универ\Защита информации и надежность информационных систем\Лабы\5\5\obj\Debug\5.csprojAssemblyReference.cache
+C:\Non_system_files\Универ\Защита информации и надежность информационных систем\Лабы\5\5\obj\Debug\5.exe
+C:\Non_system_files\Универ\Защита информации и надежность информационных систем\Лабы\5\5\obj\Debug\5.pdb
+D:\NotForWork\ZI\5\5\bin\Debug\5.exe.config
+D:\NotForWork\ZI\5\5\bin\Debug\5.exe
+D:\NotForWork\ZI\5\5\bin\Debug\5.pdb
+D:\NotForWork\ZI\5\5\obj\Debug\5.csprojAssemblyReference.cache
+D:\NotForWork\ZI\5\5\obj\Debug\5.exe
+D:\NotForWork\ZI\5\5\obj\Debug\5.pdb
+C:\Non_system_files\Универ\Защита информации и надежность информационных систем\Лабы\ZI\5\5\bin\Debug\5.exe.config
+C:\Non_system_files\Универ\Защита информации и надежность информационных систем\Лабы\ZI\5\5\bin\Debug\5.exe
+C:\Non_system_files\Универ\Защита информации и надежность информационных систем\Лабы\ZI\5\5\bin\Debug\5.pdb
+C:\Non_system_files\Универ\Защита информации и надежность информационных систем\Лабы\ZI\5\5\obj\Debug\5.csprojAssemblyReference.cache
+C:\Non_system_files\Универ\Защита информации и надежность информационных систем\Лабы\ZI\5\5\obj\Debug\5.exe
+C:\Non_system_files\Универ\Защита информации и надежность информационных систем\Лабы\ZI\5\5\obj\Debug\5.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\5\5\bin\Debug\5.exe.config
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\5\5\bin\Debug\5.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\5\5\bin\Debug\5.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\5\5\obj\Debug\5.csprojAssemblyReference.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\5\5\obj\Debug\5.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\5\5\obj\Debug\5.pdb
