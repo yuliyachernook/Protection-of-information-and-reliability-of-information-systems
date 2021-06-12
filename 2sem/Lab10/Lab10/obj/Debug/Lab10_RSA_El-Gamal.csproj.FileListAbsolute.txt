@@ -1,0 +1,7 @@
+D:\ZI\2sem\Lab10\Lab10\bin\Debug\Lab10_RSA_El-Gamal.exe.config
+D:\ZI\2sem\Lab10\Lab10\bin\Debug\Lab10_RSA_El-Gamal.exe
+D:\ZI\2sem\Lab10\Lab10\bin\Debug\Lab10_RSA_El-Gamal.pdb
+D:\ZI\2sem\Lab10\Lab10\obj\Debug\Lab10_RSA_El-Gamal.csproj.CoreCompileInputs.cache
+D:\ZI\2sem\Lab10\Lab10\obj\Debug\Lab10_RSA_El-Gamal.csproj.CopyComplete
+D:\ZI\2sem\Lab10\Lab10\obj\Debug\Lab10_RSA_El-Gamal.exe
+D:\ZI\2sem\Lab10\Lab10\obj\Debug\Lab10_RSA_El-Gamal.pdb

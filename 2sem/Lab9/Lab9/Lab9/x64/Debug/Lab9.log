@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Crypto_Lab09.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Lab9.cpp
+D:\ZI\2sem\Lab9\Lab9\Lab9\Lab9.cpp(37,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab9.vcxproj -> D:\ZI\2sem\Lab9\Lab9\x64\Debug\Lab9.exe

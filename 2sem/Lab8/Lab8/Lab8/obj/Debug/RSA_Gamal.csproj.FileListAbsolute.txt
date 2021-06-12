@@ -1,0 +1,10 @@
+D:\3k2sem\ZI\Lab8\RSA_Gamal\RSA_Gamal\bin\Debug\RSA_Gamal.exe.config
+D:\3k2sem\ZI\Lab8\RSA_Gamal\RSA_Gamal\bin\Debug\RSA_Gamal.exe
+D:\3k2sem\ZI\Lab8\RSA_Gamal\RSA_Gamal\bin\Debug\RSA_Gamal.pdb
+D:\3k2sem\ZI\Lab8\RSA_Gamal\RSA_Gamal\obj\Debug\RSA_Gamal.csprojAssemblyReference.cache
+D:\3k2sem\ZI\Lab8\RSA_Gamal\RSA_Gamal\obj\Debug\RSA_Gamal.Form1.resources
+D:\3k2sem\ZI\Lab8\RSA_Gamal\RSA_Gamal\obj\Debug\RSA_Gamal.Properties.Resources.resources
+D:\3k2sem\ZI\Lab8\RSA_Gamal\RSA_Gamal\obj\Debug\RSA_Gamal.csproj.GenerateResource.cache
+D:\3k2sem\ZI\Lab8\RSA_Gamal\RSA_Gamal\obj\Debug\RSA_Gamal.csproj.CoreCompileInputs.cache
+D:\3k2sem\ZI\Lab8\RSA_Gamal\RSA_Gamal\obj\Debug\RSA_Gamal.exe
+D:\3k2sem\ZI\Lab8\RSA_Gamal\RSA_Gamal\obj\Debug\RSA_Gamal.pdb

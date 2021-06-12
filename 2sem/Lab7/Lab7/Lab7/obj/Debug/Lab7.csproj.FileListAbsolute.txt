@@ -1,0 +1,7 @@
+D:\ZI\2sem\Lab7\Lab7\Lab7\bin\Debug\Lab2Rukzak.exe.config
+D:\ZI\2sem\Lab7\Lab7\Lab7\bin\Debug\Lab2Rukzak.exe
+D:\ZI\2sem\Lab7\Lab7\Lab7\bin\Debug\Lab2Rukzak.pdb
+D:\ZI\2sem\Lab7\Lab7\Lab7\obj\Debug\Lab7.csprojAssemblyReference.cache
+D:\ZI\2sem\Lab7\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+D:\ZI\2sem\Lab7\Lab7\Lab7\obj\Debug\Lab2Rukzak.exe
+D:\ZI\2sem\Lab7\Lab7\Lab7\obj\Debug\Lab2Rukzak.pdb

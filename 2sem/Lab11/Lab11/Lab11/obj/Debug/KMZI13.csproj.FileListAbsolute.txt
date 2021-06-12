@@ -1,0 +1,66 @@
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\bin\Debug\KMZI13.exe.config
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\bin\Debug\KMZI13.exe
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\bin\Debug\KMZI13.pdb
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\bin\Debug\System.ValueTuple.dll
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\bin\Debug\System.ValueTuple.xml
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\obj\Debug\ECP.g.cs
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\obj\Debug\Encrypt.g.cs
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\obj\Debug\MainWindow.g.cs
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\obj\Debug\App.g.cs
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\obj\Debug\KMZI13_MarkupCompile.cache
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\obj\Debug\KMZI13_MarkupCompile.lref
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\obj\Debug\ECP.baml
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\obj\Debug\Encrypt.baml
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\obj\Debug\MainWindow.baml
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\obj\Debug\KMZI13.g.resources
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\obj\Debug\KMZI13.Properties.Resources.resources
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\obj\Debug\KMZI13.csproj.GenerateResource.cache
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\obj\Debug\KMZI13.csproj.CoreCompileInputs.cache
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\obj\Debug\KMZI13.csproj.CopyComplete
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\obj\Debug\KMZI13.exe
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\obj\Debug\KMZI13.pdb
+C:\Users\Valera\Desktop\Крипта\lab13\KMZI13\obj\Debug\KMZI13.csprojAssemblyReference.cache
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\bin\Debug\KMZI13.exe.config
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\bin\Debug\KMZI13.exe
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\bin\Debug\KMZI13.pdb
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\bin\Debug\System.ValueTuple.dll
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\bin\Debug\System.ValueTuple.xml
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\obj\Debug\KMZI13.csprojAssemblyReference.cache
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\obj\Debug\ECP.g.cs
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\obj\Debug\Encrypt.g.cs
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\obj\Debug\MainWindow.g.cs
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\obj\Debug\App.g.cs
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\obj\Debug\KMZI13_MarkupCompile.cache
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\obj\Debug\KMZI13_MarkupCompile.lref
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\obj\Debug\ECP.baml
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\obj\Debug\Encrypt.baml
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\obj\Debug\MainWindow.baml
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\obj\Debug\KMZI13.g.resources
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\obj\Debug\KMZI13.Properties.Resources.resources
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\obj\Debug\KMZI13.csproj.GenerateResource.cache
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\obj\Debug\KMZI13.csproj.CoreCompileInputs.cache
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\obj\Debug\KMZI13.csproj.CopyComplete
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\obj\Debug\KMZI13.exe
+C:\Users\Valera\Desktop\Крипта\lab_13\KMZI13\obj\Debug\KMZI13.pdb
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\bin\Debug\KMZI13.exe.config
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\bin\Debug\KMZI13.exe
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\bin\Debug\KMZI13.pdb
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\bin\Debug\System.ValueTuple.dll
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\bin\Debug\System.ValueTuple.xml
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\obj\Debug\KMZI13.csprojAssemblyReference.cache
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\obj\Debug\ECP.g.cs
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\obj\Debug\Encrypt.g.cs
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\obj\Debug\MainWindow.g.cs
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\obj\Debug\App.g.cs
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\obj\Debug\KMZI13_MarkupCompile.cache
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\obj\Debug\KMZI13_MarkupCompile.lref
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\obj\Debug\ECP.baml
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\obj\Debug\Encrypt.baml
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\obj\Debug\MainWindow.baml
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\obj\Debug\KMZI13.g.resources
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\obj\Debug\KMZI13.Properties.Resources.resources
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\obj\Debug\KMZI13.csproj.GenerateResource.cache
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\obj\Debug\KMZI13.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\obj\Debug\KMZI13.csproj.CopyComplete
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\obj\Debug\KMZI13.exe
+C:\Users\HOME\Downloads\Telegram Desktop\Romanitski\Крипта\lab_13\KMZI13\obj\Debug\KMZI13.pdb

@@ -1,0 +1,9 @@
+D:\ZI\2sem\Lab12\Lab12\Lab12\bin\Debug\Lab_12.exe.config
+D:\ZI\2sem\Lab12\Lab12\Lab12\bin\Debug\Lab_12.exe
+D:\ZI\2sem\Lab12\Lab12\Lab12\bin\Debug\Lab_12.pdb
+D:\ZI\2sem\Lab12\Lab12\Lab12\obj\Debug\Lab_12.Form1.resources
+D:\ZI\2sem\Lab12\Lab12\Lab12\obj\Debug\Lab_12.Properties.Resources.resources
+D:\ZI\2sem\Lab12\Lab12\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+D:\ZI\2sem\Lab12\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+D:\ZI\2sem\Lab12\Lab12\Lab12\obj\Debug\Lab_12.exe
+D:\ZI\2sem\Lab12\Lab12\Lab12\obj\Debug\Lab_12.pdb

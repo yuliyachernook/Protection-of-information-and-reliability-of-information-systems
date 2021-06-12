@@ -1,0 +1,10 @@
+D:\ZI\2sem\Lab3\Lab3\Lab3\bin\Debug\Lab.exe.config
+D:\ZI\2sem\Lab3\Lab3\Lab3\bin\Debug\Lab.exe
+D:\ZI\2sem\Lab3\Lab3\Lab3\bin\Debug\Lab.pdb
+D:\ZI\2sem\Lab3\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\ZI\2sem\Lab3\Lab3\Lab3\obj\Debug\Lab.Form1.resources
+D:\ZI\2sem\Lab3\Lab3\Lab3\obj\Debug\Lab.Properties.Resources.resources
+D:\ZI\2sem\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\ZI\2sem\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\ZI\2sem\Lab3\Lab3\Lab3\obj\Debug\Lab.exe
+D:\ZI\2sem\Lab3\Lab3\Lab3\obj\Debug\Lab.pdb
